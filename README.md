@@ -1,8 +1,12 @@
 # Clima
 
+Clima is an app that allows the user to find out the weather at their location.
 
-App from Udemy course: The complete iOS App Development Bootcamp by Angela Yu
+App from Udemy course: The complete iOS App Development Bootcamp by Angela Yu.
 
+## Sample Run
+
+<img src='https://imgur.com/EbfSGMj.gif' title='Clima' width='' alt='Clima test run' />
 
 ## MIT License
 
